@@ -1,0 +1,13 @@
+name: ml-learn
+dependencies:
+- python=3
+- ipython
+- ipython-notebook
+- scipy
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- seaborn
+- pip:
+    - watermark
